@@ -1,5 +1,4 @@
-# Web Application to Predict the Earlier Stages of Alzheimer’s disease (Application deployment in heroku)
-An Ensemble-Learning Based Web Application to Predict the Earlier Stages of Alzheimer’s disease.
+# Web Application
 
 ### Screenshot
 ###### Home page
